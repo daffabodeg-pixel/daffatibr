@@ -211,7 +211,7 @@ body{background:var(--bg);color:#fff;font-family:Inter,system-ui,sans-serif;over
   </div>
 </footer>
 
-<!-- 3D transition overlay (shown when opening Task Management App) -->
+<!-- 3D transition overlay (https://daffabodeg-pixel.github.io/daff/) -->
 <div id="warp" aria-hidden="true">
   <button id="wx" aria-label="Close" class="p-2"><i data-lucide="x" class="w-6 h-6"></i></button>
   <div class="wc"><div class="wf">
